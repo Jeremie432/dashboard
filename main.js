@@ -1,6 +1,6 @@
 import ScoreboardView from "./scoreboard/ScoreboardView.js";
 
-let playerOneScore = 0;
+let playerOneScore = 1;
 let playerTwoScore = 0;
 let playerThreeScore = 0;
 let playerFourScore = 0;
