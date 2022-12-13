@@ -9,7 +9,7 @@ let playerSixScore = 0;
 
 
 const root = document.querySelector("#app");
-const view = new ScoreboardView(root, "Team A", "Team B", "Team C", "Team D", "Team E", "Team F", (player, direction) => {
+const view = new ScoreboardView(root, "Team A", "Team B", "Team C", "Team D", "Team E", "Team G", (player, direction) => {
 	const difference = direction === "minus" ? -1 : 1;
 
 	if (player === "one") {
