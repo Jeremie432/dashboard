@@ -15,7 +15,7 @@ body {
 	grid-template-columns: repeat(3, 2fr);
 	align-items: baseline;
 	height: 700px;
-	width: 800px;
+	width: 900px;
 	font-family: 'Quicksand', sans-serif;
 }
 
